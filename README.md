@@ -1,0 +1,4 @@
+- Hi, I’m @SpencerEardley
+- I’m proficient in C++, C#, .NET, Powershell, DevOps, Embedded, Windows ADK
+- I'm interested in Edge Computing, AI
+- spencereardley@gmail.com
